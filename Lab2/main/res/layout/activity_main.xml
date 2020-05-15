@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10sp"
+    android:layout_marginTop="10sp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10sp"
+        android:background="#0000FF"
+        android:text="@string/labNum"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="#FFFF00"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FF00FF"
+            android:textSize="25sp"
+            android:text="@string/userLabel"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:hint="Enter Username"
+            android:inputType="text"
+            android:id="@+id/inputID"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="#FF00FF"
+            android:textSize="25sp"
+            android:text="@string/passLabel"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:hint="Enter Password"
+            android:inputType="textPassword"
+            android:id="@+id/inputPW"/>
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="#FF0000"
+        android:textStyle="bold"
+        android:text="@string/username"
+        android:layout_marginTop="10sp"
+        android:id="@+id/btn_user"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="#FF0000"
+        android:textStyle="bold"
+        android:text="@string/password"
+        android:layout_marginTop="10sp"
+        android:id="@+id/btn_pw"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="#FF0000"
+        android:textStyle="bold"
+        android:text="@string/usepw"
+        android:layout_marginTop="10sp"
+        android:id="@+id/btn_usepw"/>
+
+</LinearLayout>

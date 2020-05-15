@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Junsup Lee</string>
+    <string name="assignment">Assignment Three</string>
+    
+    <string name="city">City</string>
+    <string name="name">Name</string>
+    <string name="sport">Sport</string>
+    <string name="MVP">MVP</string>
+    <string name="stadium">Stadium</string>
+</resources>

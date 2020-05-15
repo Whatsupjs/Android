@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Junsup Lee</string>
+    <string name="assignment">Assignment Four</string>
+
+    <string name="city">City</string>
+    <string name="name">Name</string>
+    <string name="sport">Sport</string>
+    <string name="MVP">MVP</string>
+    <string name="stadium">Stadium</string>
+
+    <string-array name="sports_array">
+        <item> </item>
+        <item>Baseball</item>
+        <item>Basketball</item>
+        <item>Football</item>
+        <item>Hockey</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="myName">Junsup Lee</string>
+    <string name="labNum">Lab 2</string>
+    <string name="userLabel">Username</string>
+    <string name="passLabel">Password</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="usepw">USERNAME AND PASSWORD</string>
+    <string name="concat"> AND </string>
+</resources>

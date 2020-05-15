@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Junsup Lee</string>
+    <string name="header">Assignment 1</string>
+    <string name="bonjour">Bonjour World</string>
+    <string name="hi">Hi Seneca</string>
+
+    <string name="rb1a">Alpha</string>
+    <string name="rb1b">Bravo</string>
+    <string name="rb1c">Charlie</string>
+    <string name="rb2a">Delta</string>
+    <string name="rb2b">Echo</string>
+    <string name="rb2c">Foxtrot</string>
+
+    <string name="btn1">SAY BONJOUR</string>
+    <string name="btn2">SAY HI</string>
+
+</resources>

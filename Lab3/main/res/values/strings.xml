@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="myName">Junsup Lee</string>
+    <string name="labNum">Lab 3</string>
+    <string name="userLabel">Username</string>
+    <string name="userLabel2">Username is</string>
+    <string name="passLabel">Password</string>
+    <string name="passLabel2">Password is</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="home">HOME</string>
+</resources>

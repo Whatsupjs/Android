@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Junsup Lee</string>
+    <string name="lab">Lab 6</string>
+    <string name="labelID">ID</string>
+    <string name="labelName">Name</string>
+    <string name="labelMarks">Marks</string>
+    
+    <string name="btn_add">ADD NEW STUDENT</string>
+    <string name="btn_view">VIEW ALL STUDENTS</string>
+    <string name="btn_find">FIND STUDENT (USING ID)</string>
+    <string name="btn_delete">DELETE STUDENT (USING ID)</string>
+
+</resources>

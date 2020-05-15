@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="humber">HUMBER</string>
+    <string name="ryerson">RYERSON</string>
+    <string name="york">YORK</string>
+    <string name="seneca">SENECA</string>
+    <string name="myId">Junsup Lee</string>
+</resources>

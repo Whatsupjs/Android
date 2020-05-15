@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/addBottom">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:background="#ba68c8"
+        android:text="@string/assignment"
+        android:padding="10sp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10sp"
+        android:paddingLeft="10sp"
+        android:paddingBottom="5sp">
+
+        <Button
+            android:id="@+id/addBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/addBottom"
+            android:textStyle="bold"
+            android:text="ADD TEAM"
+            android:textColor="#ffb74d"
+            android:textSize="30sp"
+            android:stateListAnimator="@null"/>
+
+        <Button
+            android:id="@+id/exitBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/addBottom"
+            android:textStyle="bold"
+            android:text="EXIT"
+            android:layout_marginLeft="10sp"
+            android:textColor="#ffb74d"
+            android:textSize="30sp"
+            android:stateListAnimator="@null"/>
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Junsup Lee</string>
+    <string name="lab">Lab 7</string>
+
+    <string name="name">NAME</string>
+    <string name="dept">DEPT</string>
+    <string name="year">YEAR</string>
+</resources>
